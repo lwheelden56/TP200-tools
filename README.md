@@ -1,5 +1,5 @@
-# reboot-TP200W
-Script to automate Toast TP200/TP200W printer reboots
+# TP200W-functions
+Script to automate Toast TP200/TP200W printer functions on a mass scale. Reboots, status checks, etc.
 
 # Run
 - Install python
