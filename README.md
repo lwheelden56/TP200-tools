@@ -26,7 +26,7 @@ Scripts to automate Toast TP200/TP200W printer functions on a mass scale. Reboot
 - Should print the test sheet to all available printers on the specified network. This script is has *not* been tested to see if it works and is just a slight modification of the reboot script.
 
 ## print-TP200.py
-- Print custom text to a single printer. Not designed for mass use.
+- Simple printer driver. Not designed for mass use.
 
 ## Future Roadmap
 - Would like to make it easier to install and run
